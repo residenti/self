@@ -6,12 +6,14 @@
 |年齢|24|
 |性別|男|
 |email|n.queue.r@gmail.com|
-|Twitter|[@v\_residenti](https://twitter.com/v_residenti)|
-|Qiita|[@residenti](https://teratail.com/users/residenti#reply)|
 |個人ブログ|[residenti ぶろぐ](https://residenti-blog.herokuapp.com/)|
+|Qiita|[@residenti](https://teratail.com/users/residenti#reply)|
 |Teratail|[residenti](https://teratail.com/users/residenti#reply)|
+|Twitter|[@v\_residenti](https://twitter.com/v_residenti)|
 
 ## 自己PR
+[TODO更新]
+
 私はこれまで自社・受託サービス開発で設計・開発・テスト・保守・運用と幅広く携わってまいりました。  
 主に触ってきたフレームワークはRailsで、HTMLを返す従来のウェブシステムとRESTfulなJSONを返すAPIをメインで実装してまいりました。  
 直近でも、Railsを使った新規保険システムAPIと管理者システムの設計・開発・テストを担当しており、APIでは、複数データーベースの利用が必要になった際に、Rails6から導入されたマルチDB機能を導入してみるなど、新しい機能でも 積極的に利用してみることを心掛けております。  
@@ -22,6 +24,8 @@
 また、日頃の学習では業務で利用している技術だけでなく、最近ではブロックチェーン技術など、業務範囲外のものでも興味が惹かれたものは積極的に学んでおります。
 
 ## このさきやってみたいこと
+[TODO更新]
+
 ・サーバーサイド開発  
 これまで、APIの設計、開発、運用に携わりサーバーサイドのスキルと業務知識を深めることができました。  
 今後も引き続きサーバーサイドの知識を深めつつ、インフラ周りも業務で触れたらと考えています。
@@ -35,6 +39,7 @@
 ### フレームワーク
 - Ruby on Rails
 - Vue.js
+- Nuxt.js
 
 ### OS
 - MacOS
@@ -42,6 +47,7 @@
 
 ### DB
 - MySQL
+- Redis
 
 ### PaaS
 - Amazon Web Service
@@ -53,22 +59,24 @@
 ### バージョン管理
 - Git
 
-### タスク管理
+### プロジェクト管理ツール
 - GitHub
 - Redmine
 - Backlog
+- Kibela
 
 ### プロトタイプ作成ツール
 - Prott
+- Adobe XD
 
 ### チャットツール
 - Slack
 - Skype
 
 ### その他
-- OpenAPI3(Swagger 3.0)
 - Docker
 - VirtualBox
+- OpenAPI3(Swagger 3.0)
 - Sequel Pro
 - MySQL Workbench
 
@@ -79,11 +87,37 @@
   - 会話はできないがREADME.mdなど簡単な資料は読んで理解できる
 
 ## 職務経歴
-
-### 2017/10 - 現在 : [株式会社oliva](https://oliva.co.jp/)
+### 2020/01 - 現在 : [株式会社ユカイ工学](https://www.ux-xu.com/products)
 職務: Webアプリケーションエンジニア
 
-#### 保険受付システム新規開発(2019/09 ~ 現在)
+【開発環境】
+
+|Key|Value|
+|---|-----|
+|言語|TypeScript|
+|フレームワーク|Nuxt.js, Vue.js, Express|
+|OS|MacOS|
+|DB|MySQL|
+|PaaS|Amazon Web Service|
+|バージョン管理|Git, Bitbucket|
+|タスク管理|Kibela|
+|ツール|OpenAPI3, MySQL Workbench, Adobe XD|
+
+【プロジェクト概要】
+- 自社開発
+- チーム人数N名
+- 社内用管理システム
+
+【担当フェーズ】
+
+【業務内容】
+
+#### 保険受付システム新規開発(2019/09 ~ 2019/12)
+
+### 2017/10 - 2019/12 : [株式会社oliva](https://oliva.co.jp/)
+職務: Webアプリケーションエンジニア
+
+#### 保険受付システム新規開発(2019/09 ~ 2019/12)
 【開発環境】
 
 |Key|Value|
