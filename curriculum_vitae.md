@@ -9,7 +9,6 @@
 |個人ブログ|[residenti ぶろぐ](https://residenti-blog.herokuapp.com/)|
 |Qiita|[@residenti](https://teratail.com/users/residenti#reply)|
 |Teratail|[residenti](https://teratail.com/users/residenti#reply)|
-|Twitter|[@v\_residenti](https://twitter.com/v_residenti)|
 
 ## 自己PR
 [TODO更新]
