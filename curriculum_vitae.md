@@ -35,11 +35,13 @@
 ### 言語
 - Ruby
 - JavaScript
+- TypeScript
 
 ### フレームワーク
 - Ruby on Rails
 - Vue.js
 - Nuxt.js
+- Express.js
 
 ### OS
 - MacOS
@@ -84,7 +86,7 @@
 - 日本語
   - ネイティブ
 - 英語
-  - 会話はできないがREADME.mdなど簡単な資料は読んで理解できる
+  - 会話はできないが README.md / stack overflow など簡単な資料は読んで理解できる
 
 ## 職務経歴
 ### 2020/01 - 現在 : [株式会社ユカイ工学](https://www.ux-xu.com/products)
@@ -95,7 +97,7 @@
 |Key|Value|
 |---|-----|
 |言語|TypeScript|
-|フレームワーク|Nuxt.js, Vue.js, Express|
+|フレームワーク|Nuxt.js, Express.js|
 |OS|MacOS|
 |DB|MySQL|
 |PaaS|Amazon Web Service|
@@ -105,10 +107,11 @@
 
 【プロジェクト概要】
 - 自社開発
-- チーム人数N名
+- チーム人数2名
 - 社内用管理システム
 
 【担当フェーズ】
+設計・開発・テスト
 
 【業務内容】
 
